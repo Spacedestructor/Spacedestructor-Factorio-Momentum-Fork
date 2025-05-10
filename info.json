@@ -1,0 +1,9 @@
+{
+	"name": "Spacedestructor-Momentum-Fork",
+	"version": "1.0.0",
+	"title": "Spacedestructor Momentum Fork",
+	"author": "Spacedestructor",
+	"description": "Fork of the Original Momentum Mod by DataCpt, this Version is Modified so the same behaviour is not only applied against the Player Character but also Units, Locomotives, Cargowagons and Cars. Requires you to use a seperate Mod that adds Corpses to Units (Biters, Spitters etc.) in order for the modification to have a noticable impact. This Mod has been Produced as an Inside Job to a Community im part of and has now been made Public.",
+	"factorio_version": "2.0",
+	"dependencies": ["base", "gvv", "disable-vanilla-menu-simulations", "!momentum"]
+}

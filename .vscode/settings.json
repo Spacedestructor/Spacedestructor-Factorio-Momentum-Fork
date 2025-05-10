@@ -1,0 +1,13 @@
+{
+	"Lua.diagnostics.globals": [
+		"data",
+		"storage",
+		"defines",
+		"game",
+		"script",
+		"__DebugAdapter",
+		"log",
+		"settings",
+		"serpent"
+	]
+}

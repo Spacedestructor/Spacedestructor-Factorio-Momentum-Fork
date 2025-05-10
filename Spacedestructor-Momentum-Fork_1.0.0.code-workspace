@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"factorio.versions": [
+			{
+				"name": "2.0",
+				"factorioPath": "c:\\SteamLibrary\\steamapps\\common\\Factorio\\bin\\x64\\factorio.exe",
+				"active": true
+			}
+		],
+		"Lua.workspace.library": [
+			"c:\\SteamLibrary\\steamapps\\common\\Factorio\\data"
+		],
+		"Lua.workspace.userThirdParty": [
+			"c:\\Users\\PC\\AppData\\Roaming\\Code\\User\\workspaceStorage\\9c7ab09cefe298b59ffc8096596f1223\\justarandomgeek.factoriomod-debug\\sumneko-3rd"
+		],
+		"Lua.workspace.checkThirdParty": "ApplyInMemory"
+	},
+	"extensions": {
+		"recommendations": [
+			"justarandomgeek.factoriomod-debug",
+			"svizzini.factorio-lua-api-autocomplete",
+			"sumneko.lua"
+		]
+	}
+}
